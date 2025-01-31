@@ -1,1 +1,8 @@
-abdul
+#include<stdio.h>
+int main(){
+	int num;
+	printf("enter the number to display:");
+	scanf("%d",&num);
+	printf("the value you entered is %d",num);
+	return 0;
+}
